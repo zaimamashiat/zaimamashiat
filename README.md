@@ -52,9 +52,13 @@ Welcome to my GitHub profile! I'm passionate about AI, coding, designing, and di
 
 <div align="center">
   
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaimamashiat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaimamashiat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaimamashiat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaimamashiat&theme=radical&hide_border=true&background=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaimamashiat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=zaimamashiat&theme=radical&no-frame=true&no-bg=true&row=1&column=6)
 
 </div>
 
